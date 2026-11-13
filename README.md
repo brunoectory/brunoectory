@@ -1,7 +1,7 @@
-# Olá, eu sou o Bruno Ectory 👋 (`@Pira7`)
+# Olá, eu sou o Bruno Ectory 👋 (`@brunoectory`)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Pira7&label=Visualizações%20do%20Perfil&color=0e75c9&style=flat" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=brunoectory&label=Visualizações%20do%20Perfil&color=0e75c9&style=flat" alt="Contador de Visitas" />
 </p>
 
 ### 🚀 Desenvolvedor Full Stack • Arquitetura de Microsserviços • Soluções em Tempo Real
@@ -55,12 +55,12 @@ Sou Desenvolvedor Full Stack com sólida atuação no desenvolvimento de sistema
 ## 📊 Estatísticas & Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pira7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Estatísticas do GitHub" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pira7&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB" alt="Linguagens Mais Utilizadas" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoectory&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Estatísticas do GitHub" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoectory&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB" alt="Linguagens Mais Utilizadas" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pira7&theme=tokyonight&hide_border=true&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB" alt="GitHub Streak" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoectory&theme=tokyonight&hide_border=true&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB" alt="GitHub Streak" height="175" />
 </p>
 
 ---
